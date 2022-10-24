@@ -1,0 +1,12 @@
+2022-10-17 12:10:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "select email as principal, password as credentials, true from [*]user where email=?"; ожидалось "identifier"
+Syntax error in SQL statement "select email as principal, password as credentials, true from [*]user where email=?"; expected "identifier"; SQL statement:
+select email as principal, password as credentials, true from user where email=? [42001-214]
+2022-10-17 12:16:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "select email as principal, password as credentials, true from [*]user where email=?"; ожидалось "identifier"
+Syntax error in SQL statement "select email as principal, password as credentials, true from [*]user where email=?"; expected "identifier"; SQL statement:
+select email as principal, password as credentials, true from user where email=? [42001-214]
+2022-10-17 12:16:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "select email as principal, password as credentials, true from [*]user where email=?"; ожидалось "identifier"
+Syntax error in SQL statement "select email as principal, password as credentials, true from [*]user where email=?"; expected "identifier"; SQL statement:
+select email as principal, password as credentials, true from user where email=? [42001-214]
