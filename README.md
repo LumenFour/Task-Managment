@@ -24,7 +24,7 @@ Not authorized users have access to the welcome screen and login or registration
 * Spring Boot
 * Spring Security
 * H2 database
-* Maven 
+* Gradle 
 * Thymeleaf
 * Bootstrap
 * jQuery
